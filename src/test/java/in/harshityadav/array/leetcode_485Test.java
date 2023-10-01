@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 import in.harshityadav.array.leetcode_485;
 
 import static in.harshityadav.array.leetcode_485.findMaxConsecutiveOnes;
+import static org.junit.jupiter.api.Assertions.*;
 
 class leetcode_485Test {
 
@@ -16,7 +17,7 @@ class leetcode_485Test {
 
         int output = findMaxConsecutiveOnes(input);
 
-        Assertions.assertEquals(output, 4);
+        assertEquals(output, 4);
 
     }
 
@@ -27,7 +28,7 @@ class leetcode_485Test {
 
         int output = findMaxConsecutiveOnes(input);
 
-        Assertions.assertEquals(output, 2);
+        assertEquals(output, 2);
 
     }
 }
