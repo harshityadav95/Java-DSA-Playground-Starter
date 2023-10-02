@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="648d92cb-d71c-4dc4-a7b1-995519a85505" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/harshityadav/array/leetcode_1295.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/harshityadav/array/leetcode_977.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/in/harshityadav/array/leetcode_1295Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/in/harshityadav/array/leetcode_485Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/in/harshityadav/array/leetcode_485Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/harshityadav/array/leetcode_977.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/harshityadav/array/leetcode_977.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2W9emnKY9G5fsWB9J9ixxboYvQq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,8 +45,9 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
