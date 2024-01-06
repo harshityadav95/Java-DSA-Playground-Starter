@@ -26,4 +26,15 @@ class leetcode_1295Test {
         Assertions.assertNotEquals(output, 3);
 
     }
+
+    public static class Main {
+        public static void main(String[] args) {
+            System.out.println("Hello world!");
+
+            // Test bed for smaller executions
+            System.out.println(Math.abs(-10));
+
+
+        }
+    }
 }

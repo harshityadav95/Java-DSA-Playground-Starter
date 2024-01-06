@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="648d92cb-d71c-4dc4-a7b1-995519a85505" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/harshityadav/bitmanipulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d6403e21ca57d315ac5f98a1ca2903afb2c9cf7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d6403e21ca57d315ac5f98a1ca2903afb2c9cf7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/9485f8a7fb1ea499c0b04b87d0104c58efb3e9f7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/9485f8a7fb1ea499c0b04b87d0104c58efb3e9f7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b5312a16719eb5fc929d34f04c5a2d001908177" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b5312a16719eb5fc929d34f04c5a2d001908177" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b37cf681016cba7c1d8476ed2d076e5485595b8e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b37cf681016cba7c1d8476ed2d076e5485595b8e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/beff2285806027dcd8513806e25bd654b0ae3337" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/beff2285806027dcd8513806e25bd654b0ae3337" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1a9e99d50e12126e53815f4fe4bdb35a6e28ce1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/1/d1a9e99d50e12126e53815f4fe4bdb35a6e28ce1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/harshityadav/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/harshityadav/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/harshityadav/array/leetcode_485.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/harshityadav/array/leetcode_array_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/harshityadav/array/leetcode_977.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/harshityadav/array/leetcode_977.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/harshityadav/bitmanipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/harshityadav/bitmanipulation/bitmanipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/in/harshityadav/array/leetcode_485Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/in/harshityadav/array/leetcode_485Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +45,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -44,18 +59,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.test_leetcode_array_1.executor": "Run",
+    "Maven.java-dsa-playground-starter [clean].executor": "Run",
+    "Maven.java-dsa-playground-starter [install].executor": "Run",
+    "Maven.java-dsa-playground-starter [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/harsh/Documents/harshityadav95/Java DSA Playground Starter/src/main/java/in/harshityadav",
+    "last_opened_file_path": "H:/harshityadav95/Java DSA Playground Starter",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -64,7 +86,20 @@
       <recent name="in.harshityadav.array" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.leetcode_1295Test.findNumbersTest2">
+  <component name="RunManager" selected="JUnit.test_leetcode_array_1">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.harshityadav.Main" />
+      <module name="java-dsa-playground-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.harshityadav.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leetcode_1295Test.findNumbersTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-dsa-playground-starter" />
       <extension name="coverage">
@@ -97,22 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode_485Test.TestfindMaxConsecutiveOnes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-dsa-playground-starter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="in.harshityadav.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="in.harshityadav.array" />
-      <option name="MAIN_CLASS_NAME" value="in.harshityadav.array.leetcode_485Test" />
-      <option name="METHOD_NAME" value="TestfindMaxConsecutiveOnes" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="leetcode_485Test.TestfindMaxConsecutiveOnesCase2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-dsa-playground-starter" />
       <extension name="coverage">
@@ -129,14 +148,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test_leetcode_array_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-dsa-playground-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.harshityadav.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="in.harshityadav.array" />
+      <option name="MAIN_CLASS_NAME" value="in.harshityadav.array.test_leetcode_array_1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.test_leetcode_array_1" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.leetcode_1295Test.findNumbersTest2" />
         <item itemvalue="JUnit.leetcode_1295Test.findNumbersTest1" />
         <item itemvalue="JUnit.leetcode_485Test.TestfindMaxConsecutiveOnesCase2" />
-        <item itemvalue="JUnit.leetcode_485Test.TestfindMaxConsecutiveOnes" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-temurin-17.0.9-249ae16d76d6-579202fe" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

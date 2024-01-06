@@ -10,10 +10,12 @@ i
 W
 'src/main/java/in/harshityadav/Main.java,9\4\9485f8a7fb1ea499c0b04b87d0104c58efb3e9f7
 e
-5src/main/java/in/harshityadav/array/leetcode_485.java,d\1\d1a9e99d50e12126e53815f4fe4bdb35a6e28ce1
-e
 5src/main/java/in/harshityadav/array/leetcode_977.java,b\3\b37cf681016cba7c1d8476ed2d076e5485595b8e
 9
 	readme.md,2\7\275d783e298228506068436512433d343feb52aa
 K
 .github/workflows/maven.yml,c\7\c709f6995f23dae0da365bff70068f8288fa89e0
+r
+Bsrc/main/java/in/harshityadav/bitmanipulation/bitmanipulation.java,2\2\22f1642f7a16ecd8001422c7d2fd9504b331789d
+i
+9src/main/java/in/harshityadav/array/leetcode_array_1.java,b\8\b8fbef750f0448ae50ebad6526fc94a45dc86bdc

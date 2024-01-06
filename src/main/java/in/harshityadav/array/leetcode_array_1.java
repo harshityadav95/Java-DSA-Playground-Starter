@@ -1,6 +1,9 @@
 package in.harshityadav.array;
 
-public class leetcode_485 {
+/*
+https://leetcode.com/problems/max-consecutive-ones/description/
+*/
+public class leetcode_array_1 {
 
     public static int findMaxConsecutiveOnes(int[] nums) {
 
@@ -19,7 +22,7 @@ public class leetcode_485 {
 
         }
 
-        return Math.max(max,count);
+        return Math.max(max, count);
 
 
     }

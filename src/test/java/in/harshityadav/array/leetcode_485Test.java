@@ -3,12 +3,11 @@ package in.harshityadav.array;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import in.harshityadav.array.leetcode_485;
 
-import static in.harshityadav.array.leetcode_485.findMaxConsecutiveOnes;
+import static in.harshityadav.array.leetcode_array_1.findMaxConsecutiveOnes;
 import static org.junit.jupiter.api.Assertions.*;
 
-class leetcode_485Test {
+class test_leetcode_array_1 {
 
     @Test
     void TestfindMaxConsecutiveOnesCase1() {

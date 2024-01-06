@@ -1,11 +1,4 @@
 
-W
-java:S1118":Add a private constructor to hide the implicit public one.(ô†Ï…8Ÿëàş®1
-b
-java:S1854	"@Remove this useless assignment to local variable "rightPointer".(Ö´„Îÿÿÿÿÿ8 ëàş®1
-M
-java:S1481"0Remove this unused "leftPointer" local variable.(ê¿öƒ8¡ëàş®1
-S
-java:S1481	"1Remove this unused "rightPointer" local variable.(Ö´„Îÿÿÿÿÿ8¢ëàş®1
-C
-java:S1168"&Return an empty array instead of null.(¥¹ï8¢ëàş®1
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ô†Ï…8ÁÌõÍ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Šš®ã8ÆÌõÍ1
